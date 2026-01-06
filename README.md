@@ -36,8 +36,8 @@ This project is NOT production ready; rather, it is a good way to familirize wit
    cd ~/phishing-detector
    ```
    Save the code as phishing_detector.py
-3. Create a Virtual Environment (recommended due to all of the dependencies we will be downloading in step 4)
-   ("venv_name" is a place holder. Please feel free to create any virtual environment name)
+3. Create a Virtual Environment (recommended due to all of the dependencies we will be downloading in step 4).
+   ("venv_name" is a place holder. Please feel free to create any virtual environment name).
    ```
    python3 -m venv venv_name
    ```
