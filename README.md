@@ -20,4 +20,12 @@ Machine learning-based phishing URL detector with a web interface via Flask. Run
 This project is NOT production ready; rather, it is a good way to familirize with ML and Cybersecurity. It is not perfect since it is only using a limited number of open-source data sets. Additionally, there are quite a few false positives/negatives with the trained ML model. It also does not check against live blacklists (something that can be expanded upon later). 
 
 ## How to Run on macOS
-1. 
+1. Install Python (if not alreadt installed)
+   ```
+       # Check if Python 3 is installed
+       python3 --version
+       
+       # If not installed, install via Homebrew
+       brew install python3
+   ```
+   
